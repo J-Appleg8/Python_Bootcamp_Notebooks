@@ -1,0 +1,6 @@
+{
+    "python.terminal.activateEnvironment": true,
+    "python.formatting.provider": "black",
+    "python.formatting.blackPath": "black",
+    "python.defaultInterpreterPath": "env\\Scripts\\python.exe"
+}
