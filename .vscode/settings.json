@@ -1,6 +1,10 @@
 {
+    // "python.languageServer": "None",
     "python.terminal.activateEnvironment": true,
+    "python.linting.pylintPath": "pylint",
+    "python.linting.pylintCategorySeverity.warning": "Hint",
+    "python.linting.pylintArgs": ["--errors-only"],
     "python.formatting.provider": "black",
     "python.formatting.blackPath": "black",
-    "python.defaultInterpreterPath": "env\\Scripts\\python.exe"
+    "python.defaultInterpreterPath": "env\\Scripts\\python.exe",
 }
