@@ -1,5 +1,5 @@
-from p9_MyMainPackage import some_main_script
-from p9_MyMainPackage.SubPackage import mysubscript
+from MyMainPackage import some_main_script
+from MyMainPackage.SubPackage import mysubscript
 
 some_main_script.report_main()
 
